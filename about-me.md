@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maty-cs
+- 👀 I’m interested in science, AI, web apps, develop games, hardware and software.
+- 🌱 I’m currently learning JavaScript, Java and C++.
+- 💞️ I’m looking to collaborate on projects that allow me to develop my logic and creativity skills.
+- 📫 How to reach me, gmail: mcrespo0703@gmail.com; ig: maty_cs, twitter: @maty_cs.
